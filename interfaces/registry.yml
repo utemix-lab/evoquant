@@ -1,0 +1,11 @@
+project:
+  slug: evoquant
+  display_name: EvoQuant
+  version: 0.1.0
+  topics:
+    - interdisciplinary-research
+    - evolution
+    - causality
+    - retrocausality
+    - astro-bio
+    - theology
