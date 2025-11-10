@@ -14,3 +14,5 @@
 2025-11-10T11:20:00Z | Sam | batch_A-D_complete | DONE | 4_files_pushed
 2025-11-10T17:10:01Z | Sam | README_discussions | DONE | commit/a46e8a2ed5c9c3f1d94c9248981b888db275ebc6
 2025-11-10T17:10:43Z | Sam | daily_checklist | DONE | commit/78c6dba82cd6b5ae2051c98fbc4633ed97427f0f
+2025-11-10T18:48:11Z | Sam | github-mcp-guide | DONE | commit/0fed322c55592d551488b9a3b153f1d5be751271
+2025-11-10T20:02:00Z | Sam | R-001 | DONE | already_exists/a46e8a2
