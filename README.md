@@ -35,4 +35,14 @@ Interdisciplinary, testable models of time, causality, and evolution
 
 ---
 
+## 💬 Discussions:
+
+**Открытый диалог:**
+- 📨 [Invitation](https://github.com/utemix-lab/evoquant/discussions/4) — приглашение к участию
+- 📋 [Working log / Watchdog](https://github.com/utemix-lab/evoquant/discussions/5) — рабочий лог агентов
+
+**Координация:** Issue #3 (Watchdog)
+
+---
+
 *"Есть нечто, чего нет. И оно действует."*
